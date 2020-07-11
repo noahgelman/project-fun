@@ -1,0 +1,41 @@
+header {
+    background: url('../img/forrest.jpg');
+    background-position: center;
+    padding: 100px 0;
+    border-bottom: 3px solid #030;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header h1 a {
+    color: #030;
+    background: #FFF;
+    padding: 5px 15px;
+    border: 3px solid #030;
+}
+
+header h1 a:hover {
+    color: #030;
+    text-decoration: none;
+    background: #EFE;
+}
+
+#sidebar {
+    width: 300px;
+}
+
+#sidebar img {
+    width: 100%;
+}
+
+#sidebar button {
+    background: #030;
+    color: #FFF;
+}
+
+#sidebar button:hover {
+    background: #060;
+}
